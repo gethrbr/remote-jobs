@@ -70,7 +70,6 @@ To add a company, see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 - `eleventy.config.js` — Main Eleventy config (imports from src/_config/)
 - `src/_config/collections.js` — Company and blog collections
 - `src/_data/companyHelpers.js` — Tech labels, region labels, featured companies
-- `src/_data/companyTags.js` — Generates browse page tags with counts
 - `src/_data/meta.js` — Site metadata (title, description, analytics)
 - `src/common/_redirects.njk` — Netlify redirects (auto-generates company redirects)
 
